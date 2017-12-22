@@ -1,0 +1,45 @@
+ /* 23E */
+ /* 24E */
+ body {
+   background-color: #afd4c0;
+   padding: 0px 15%;
+ }
+
+ /* id 22c-2 */
+
+ .main-page {
+
+  background-color: #fff;
+  width: 100%;
+  height: 785px;
+ }
+  
+/* id 22c-1 */
+
+#home {
+  padding-left: 20%;
+  padding-right: 20%
+
+}
+
+/* 24C */
+ #logo {
+   padding-top: 45%;
+   padding-left: 35%;
+   padding-right: 35%;
+   padding-bottom: 50px;
+
+}
+
+/* 23D */
+
+.text{
+  font-weight: bold;
+  font-family: sans-serif;
+}
+/* 24D */
+
+.input{
+  width: 100%;
+  border-color: #8aea92;
+}
