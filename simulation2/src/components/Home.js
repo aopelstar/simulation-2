@@ -20,6 +20,14 @@ class Home extends Component {
                     Username
                     </div>
                     <input className = "input"/>
+                    <div className = "text">
+                    Password
+                    </div>
+                    <input className = "input"/>
+                    <div className = "button">
+                    <button className='two'>Login</button>
+                    <button className='one'>Register</button>
+                    </div>
                 </div>
             </div>
         )
