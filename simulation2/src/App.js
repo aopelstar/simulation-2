@@ -11,7 +11,8 @@ class App extends Component {
   render() {
     return (
       <div className="main-page">
-{/* 42h */}
+{/* /* 42h */ */}
+
         {route}
 
       </div>
